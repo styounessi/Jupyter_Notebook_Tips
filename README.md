@@ -1,11 +1,13 @@
 # Building Presentable Notebooks in Jupyter
 A collection of tips, examples, and tools to make content in Jupyter easy to share with broad audiences. 
 
-The `.ipynb` file is the source notebook with all the live code, visualizations, and other media. The `.html` export removes all the technical elements from the notebook so that it is purely presentation oriented. Finally, the `.pdf` export is meant to be a simple demonstration of what does (and does not) make the cut in purely static formats.
+The `.ipynb` file is the source notebook with all the live code, visualizations, and other media. The `.html` export removes all the technical elements from the notebook so that it is a purely presentation oriented document. 
 
 ## Viewing Files
 
-This repository is an imperfect place to view these files without downloading them first. The notebook can be viewed using nbviewer [HERE](https://nbviewer.org/github/styounessi/Jupyter_Notebook_Tips/blob/main/notebook_presentation.ipynb). The HTML file is best viewed by downloading it locally and opening it in a web browser. 
+The notebook is ideally viewed using nbviewer [HERE](https://nbviewer.org/github/styounessi/Jupyter_Notebook_Tips/blob/main/notebook_presentation.ipynb). 
+
+The HTML file can be downloaded locally and viewed in any web browser. 
 
 ## Technologies Used
 A list of everything used to make the notebook and the examples in each section. 
