@@ -5,7 +5,7 @@ The `.ipynb` file is the source notebook with all the live code, visualizations,
 
 ## Viewing Files
 
-The notebook is ideally viewed using nbviewer [HERE](https://nbviewer.org/github/styounessi/Jupyter_Notebook_Tips/blob/main/notebook_presentation.ipynb). 
+The notebook can be viewed using nbviewer [HERE](https://nbviewer.org/github/styounessi/Jupyter_Notebook_Tips/blob/main/notebook_presentation.ipynb). 
 
 The HTML file can be downloaded locally and viewed in any web browser. 
 
