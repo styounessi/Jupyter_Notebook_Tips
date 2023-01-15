@@ -25,4 +25,4 @@ A list of everything used to make the notebook and the examples in each section.
 * [pandas-profiling](https://pypi.org/project/pandas-profiling/)
 
 ## What's Next?
-This project is really just a place to share all of the practical and useful things I've learned on my Jupyter journey so it should hopefully be updated over time as technologies change and I encounter and learn more helpful practices. 
+This project is really just a place to share all of the practical and useful things I've found on my "Jupyter journey" so it should hopefully be updated over time as technologies change and I encounter and learn more helpful practices. 
