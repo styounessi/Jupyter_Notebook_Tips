@@ -1,7 +1,7 @@
 # Building Presentable Notebooks in Jupyter
 A collection of tips, examples, and tools to make content in Jupyter easy to share with broad audiences. 
 
-Strictly made as a way to keep all the random information in one place rather than scattered all over.
+Strictly made as a way to keep all the random information in one place rather than scattered all over. Like taking notes in class...
 
 The `.ipynb` file is the source notebook with all the live code, visualizations, and other media. The `.html` export removes all the technical elements from the notebook so that it is a purely presentation oriented document. 
 
