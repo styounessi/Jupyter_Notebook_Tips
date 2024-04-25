@@ -7,9 +7,11 @@ The `.ipynb` file is the source notebook with all the live code, visualizations,
 
 ## Viewing Files
 
-The notebook can be viewed using nbviewer [HERE](https://nbviewer.org/github/styounessi/jupyter_tips/blob/main/presentable_notebook_tips.ipynb). 
+The notebook can be viewed using nbviewer: [LINK](https://nbviewer.org/github/styounessi/jupyter_tips/blob/main/presentable_notebook_tips.ipynb)
 
-The HTML export version can be downloaded locally and viewed in any web browser. 
+Alternatively, it can be loaded into Google Colab to experiment with some of the components: [LINK](https://colab.research.google.com/github/styounessi/jupyter_tips/blob/main/presentable_notebook_tips.ipynb)
+
+The HTML export file can be downloaded locally and viewed in any web browser. 
 
 ## Technologies Used
 A list of everything used to make the notebook and the examples in each section. 
