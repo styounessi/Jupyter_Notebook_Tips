@@ -26,7 +26,7 @@ A list of everything used to make the notebook and the examples in each section.
 * [Pyppeteer](https://pypi.org/project/pyppeteer/)
 * [nbconvert](https://pypi.org/project/nbconvert/)
 * [ridgeplot](https://pypi.org/project/ridgeplot/)
-* [pandas-profiling](https://pypi.org/project/pandas-profiling/) <-- ⚠️ `pandas-profiling` package naming was changed. To continue profiling data use [ydata-profiling](https://pypi.org/project/ydata-profiling/) instead!
+* [pandas-profiling](https://pypi.org/project/pandas-profiling/) <-- `pandas-profiling` package naming was changed. To continue profiling data use [ydata-profiling](https://pypi.org/project/ydata-profiling/) instead!
 
 ## What's Next?
 This project is really just a place to share all of the practical and useful things I've found on my "Jupyter journey" so it should hopefully be updated over time as technologies change and I encounter and learn more helpful practices. 
